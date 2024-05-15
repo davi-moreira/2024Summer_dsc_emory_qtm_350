@@ -1,0 +1,36 @@
+---
+title: "QTM 350: Data Science Computing"
+subtitle: "Quantitative Theory and Methods Department, Emory University"
+---
+
+## Course Description
+
+This course equips students with computing skills and knowledge for data science applications. Students will gain knowledge foundations and hands-on experience with technologies such as the Command Line, Version Control, Project Collaboration, Data Structures and Algorithms. Prospective data scientists, statisticians, and other quantitative professionals will learn computational foundations to efficiently utilize data, data structures, and algorithms for data science.
+
+### Instructor: [Professor Davi Moreira](https://davi-moreira.github.io)
+
+-   Email: [davi.moreira\@emory.edu](mailto:davi.moreira@emory.edu)
+-   Office hours: Tuesdays, 5 pm - 6 pm, or by appointment
+    -   Zoom link in your Course Canvas Page.
+
+## Learning Outcomes
+
+By the end of this course, students will be able to:
+
+1.	Demonstrate proficiency in data science project collaboration and version control.
+2.	Utilize advanced data storage, manipulation, and querying. 
+3.	High-level understanding of data structures, and algorithms.
+4.	Critically navigate the emergent trends in data science computing.
+
+## Objectives
+
+-   **Conceptual Understanding**: To provide students with a foundational grasp of data structures and algorithms.
+-   **Technical Proficiency**: To equip students with practical skills in version control, Python programming, data structures, and algorithms enabling them to execute data manipulation and analysis tasks proficiently.
+-   **Critical Integrated Learning**: To offer a holistic educational experience that combines theoretical learning with practice, ensuring students can apply their knowledge to real-world projects and foster an awareness of emerging trends in the data science computing landscape.
+
+### Course Infra-structure
+
+**Course Website:** This class website will be used throughout the course and should be checked on a regular basis for lecture materials and required readings.
+
+**Canvas:** The course Canvas site <http://canvas.emory.edu> should be checked on a regular basis for announcements and course material..
+

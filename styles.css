@@ -1,0 +1,11 @@
+/* css styles */
+
+code {
+  color: #041E42;
+}
+
+/* CSS class for the quarto-sidebar */
+#quarto-sidebar {
+  background-color: #0E315F; /* Change this to your desired color */
+  /* Other styles */
+}
